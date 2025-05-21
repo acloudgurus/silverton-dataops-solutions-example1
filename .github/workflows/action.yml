@@ -74,7 +74,7 @@ permissions:
 jobs:
   dataops-pipeline:
 
-    uses: zilvertonz/silverton-dataops-brutesquad-example/.github/workflows/dataops-pipeline.yml@feature_DATAOPSInternal-pvs-test-ar1-unit-testing
+    uses: acloudgurus/silverton-dataops-brutesquad-example/.github/workflows/dataops-pipeline.yml@unittesting
 
 
 
