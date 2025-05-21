@@ -74,7 +74,7 @@ permissions:
 jobs:
   dataops-pipeline:
 
-    uses: acloudgurus/silverton-dataops-brutesquad-example/.github/workflows/dataops-pipeline.yml@unittesting
+    uses: acloudgurus/silverton-dataops-brutesquad-example1/.github/workflows/dataops-pipeline.yml@unittesting
 
 
 
